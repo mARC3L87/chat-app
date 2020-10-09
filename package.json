@@ -1,0 +1,8 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mARC3L87/chat-app.git",
+  "author": "Marcel Łukomski <marcel.lukomski@gmail.com>",
+  "license": "MIT"
+}
