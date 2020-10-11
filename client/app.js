@@ -40,5 +40,4 @@ function addMessage(author, content) {
     <div class="message__content">${content}</div>`
     messagesList.appendChild(message);
   }
-
 };
